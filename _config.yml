@@ -14,7 +14,7 @@ color_scheme: auto # You can choose three modes auto, light, and dark. By defaul
 author:
   author__name: Gean Ramos
   author__bio: Designs, talks, and writes about web, ethics, privacy, and dev. I share design tutorials, free resources and inspiration.
-  author__avatar: '/images/japan/hakan-nural-8l8gQsG4c-E-unsplash.jpg'
+  author__avatar: '/images/japan/tianshu-liu-khQY5Eu-aa0-unsplash.jpg'
 
 social:
 - {icon: "ion-logo-twitter", link: "https://twitter.com/geanramos"}
@@ -31,7 +31,7 @@ social:
 hero:
   hero__title: Hey, I’m Gean Ramos
   hero__description: Designs, talks, and writes about web, ethics, privacy, and dev. I share design tutorials, free resources and inspiration.
-  hero__image: '/images/japan/jezael-melgoza-alY6_OpdwRQ-unsplash.jpg'
+  hero__image: '/images/logo.png'
 
 
 #-------------------------------
@@ -40,7 +40,6 @@ mailchimp: enable # To enable the mailchimp form, use the value 'enable'. To dis
 mailchimp__identifier: frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3 # Add your MailChimp form identifier. For example - frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3
 mailchimp__input__text: Subscribe here
 mailchimp__button__text: Get a new tip
-
 
 #-------------------------------
 # Gallery Footer Section
