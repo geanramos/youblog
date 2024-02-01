@@ -14,7 +14,7 @@ color_scheme: auto # You can choose three modes auto, light, and dark. By defaul
 author:
   author__name: Gean Ramos
   author__bio: Designs, talks, and writes about web, ethics, privacy, and dev. I share design tutorials, free resources and inspiration.
-  author__avatar: 'https://i0.wp.com/youblog.50x.com.br/images/japan/tianshu-liu-khQY5Eu-aa0-unsplash.jpg?resize=150,150'
+  author__avatar: 'https://2.gravatar.com/avatar/bdd3a9aa9878447e26ba6191f221487233264cf3915c0823af839cc5af5c9439?size=150'
 
 social:
 - {icon: "ion-logo-twitter", link: "https://twitter.com/geanramos"}
