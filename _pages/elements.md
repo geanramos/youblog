@@ -2,7 +2,7 @@
 layout: page
 title: Elements
 permalink: /elements/
-image: '/images/17.jpg'
+image: '/images/japan/jezael-melgoza-ryqRm-dfZbI-unsplash.jpg'
 ---
 
 A paragraph looks like this — Globally incubate standards compliant channels before scalable benefits. Quickly disseminate superior deliverables whereas web-enabled applications. Quickly drive clicks-and-mortar catalysts for change before vertical architectures. Credibly reintermediate backend ideas for cross-platform models. Continually reintermediate integrated processes through technically sound intellectual capital. Holistically foster superior methodologies.
@@ -110,37 +110,45 @@ li {
 
 ## Images
 
-![Beach]({{site.baseurl}}/images/12-1.jpg#wide)
+![Beach]({{site.baseurl}}/images/japan/jezael-melgoza-ryqRm-dfZbI-unsplash.jpg#wide)
 *Photo by [Luke McKeown](https://unsplash.com/photos/nlyWZtWTzCo) on [Unsplash](https://unsplash.com/)*
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/100.jpg">
-    <img src="/images/101.jpg">
-    <img src="/images/102.jpg">
-    <img src="/images/103.jpg">
-    <img src="/images/104.jpg">
-    <img src="/images/105.jpg">
-    <img src="/images/106.jpg">
-    <img src="/images/107.jpg">
-    <img src="/images/108.jpg">
+      <img src="https://i0.wp.com/tangerina.netlify.app/images/japan/alex-knight-5-GNa303REg-unsplash.jpg">
+      <img src="https://i0.wp.com/tangerina.netlify.app/images/japan/hakan-nural-8l8gQsG4c-E-unsplash.jpg">
+      <img src="https://i0.wp.com/tangerina.netlify.app/images/japan/hama-haki-3TDaQc4930s-unsplash.jpg">
+      <img src="https://i0.wp.com/tangerina.netlify.app/images/japan/jase-bloor-oCZHIa1D4EU-unsplash.jpg">
+      <img src="https://i0.wp.com/tangerina.netlify.app/images/japan/jezael-melgoza-alY6_OpdwRQ-unsplash.jpg">
+      <img src="https://i0.wp.com/tangerina.netlify.app/images/japan/jezael-melgoza-ryqRm-dfZbI-unsplash.jpg">
+      <img src="https://i0.wp.com/tangerina.netlify.app/images/japan/redd-f-Bxzrd0p6yOM-unsplash.jpg">
+      <img src="https://i0.wp.com/tangerina.netlify.app/images/japan/su-san-lee-E_eWwM29wfU-unsplash.jpg">
+      <img src="https://i0.wp.com/tangerina.netlify.app/images/japan/susann-schuster-umHsjqIJyK4-unsplash.jpg">
   </div>
   <em>Gallery / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
 </div>
 
-![Sea]({{site.baseurl}}/images/18.jpg)
+![Sea]({{site.baseurl}}/images/japan/jezael-melgoza-ryqRm-dfZbI-unsplash.jpg)
 *Photo by [Sean Kelley](https://unsplash.com/photos/aQ5MBh_mfcc) on [Unsplash](https://unsplash.com/)*
 
 ***
 
 ## Youtube Embed
 
-<p><iframe src="https://www.youtube.com/embed/gghgYaYeG_M" loading="lazy" frameborder="0" allowfullscreen></iframe></p>
+<p><iframe src="https://www.youtube.com/embed/DrvE393d7n0?si=-FmXOE6p3NEzx0TJ" loading="lazy" frameborder="0" allowfullscreen></iframe></p>
 
 ***
 
 ## Vimeo Embed
 
-<p><iframe src="https://player.vimeo.com/video/147264547?title=0&byline=0" loading="lazy" width="640" height="360" frameborder="0" allowfullscreen></iframe></p>
+<p><iframe src="https://player.vimeo.com/video/87008050?title=0&byline=0" loading="lazy" width="640" height="360" frameborder="0" allowfullscreen></iframe></p>
 
 ***
+
+## SoundCloud Embed
+
+<p><iframe src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1670703375&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true" loading="lazy" width="640" height="165" frameborder="0" allowfullscreen></iframe></p>
+
+***
+
+
