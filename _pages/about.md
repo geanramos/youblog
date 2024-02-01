@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-image: '/images/01-2.jpg'
+image: '/images/japan/hakan-nural-8l8gQsG4c-E-unsplash.jpg'
 ---
 
 Leverage agile frameworks to provide a robust Hugo Sousa synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
@@ -13,9 +13,9 @@ Collaboratively administrate turnkey channels whereas virtual e-tailers. Objecti
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/102.jpg">
-    <img src="/images/105.jpg">
-    <img src="/images/107.jpg">
+    <img src="https://i0.wp.com/tangerina.netlify.app/images/japan/alex-knight-5-GNa303REg-unsplash.jpg">
+    <img src="https://i0.wp.com/tangerina.netlify.app/images/japan/hakan-nural-8l8gQsG4c-E-unsplash.jpg">
+    <img src="https://i0.wp.com/tangerina.netlify.app/images/japan/hama-haki-3TDaQc4930s-unsplash.jpg">
   </div>
   <em>Gallery / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
 </div>
@@ -28,8 +28,9 @@ Objectively innovate empowered manufactured products whereas parallel platforms.
 
 Globally incubate standards compliant channels before scalable benefits. Quickly disseminate superior deliverables whereas web-enabled applications. Quickly drive clicks-and-mortar catalysts for change before vertical architectures.
 
-<p><iframe src="https://www.youtube.com/embed/gghgYaYeG_M" width="640" height="360" frameborder="0" allowfullscreen></iframe></p>
+<p><iframe src="https://www.youtube.com/embed/NKU25EalGcI" width="640" height="360" frameborder="0" allowfullscreen></iframe></p>
 
 Credibly reintermediate backend ideas for cross-platform models. Continually reintermediate integrated processes through technically sound intellectual capital. Holistically foster superior methodologies without market-driven best practices.
 
 Distinctively exploit optimal alignments for intuitive bandwidth. Quickly coordinate e-business applications through revolutionary catalysts for change. Seamlessly underwhelm optimal testing procedures whereas bricks-and-clicks processes.
+
