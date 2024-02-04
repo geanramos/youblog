@@ -2,8 +2,8 @@
 title: "Não duram nem Dois Meses"
 description: "A partir daquele momento, começou suas investidas completamente sem sucesso, Com a Marcella."
 date: "2024-02-04"
-tags: [blog]
-images: "/images/dois-meses.jpeg"
+tags: [relacionamento]
+image: "/images/dois-meses.jpeg"
 ---
 
 Ninguém imaginaria que o primeiro beijo da **Marcella**  com o amor da sua vida seria em uma festa de jogos universitários, com um dos meninos mais saidinhos da faculdade — e, ainda por cima, por iniciativa dela.
