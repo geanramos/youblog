@@ -4,7 +4,7 @@ title:  Começa aqui seu curso de PHP Moderno
 description: Você sempre quis aprender PHP e nunca achou um curso com as novidades das últimas versões da linguagem?
 date:   2024-01-25 14:01:35 +0300
 image:  '/images/php-em-video.jpg'
-video_embed: https://www.youtube.com/embed/TfsO0BGvGn0
+video_embed: https://www.youtube.com/embed/TfsO0BGvGn0?list=PLHz_AreHm4dlFPrCXCmd5g92860x_Pbr_&index=1
 tags:   [treinamento]
 ---
 
