@@ -135,7 +135,7 @@ li {
 
 ## Youtube Embed
 
-<p><iframe src="https://www.youtube.com/embed/DrvE393d7n0?si=-FmXOE6p3NEzx0TJ" loading="lazy" frameborder="0" allowfullscreen></iframe></p>
+<p><iframe src="https://www.youtube.com/embed/DrvE393d7n0?list=RDDrvE393d7n0&index=1" loading="lazy" frameborder="0" allowfullscreen></iframe></p>
 
 ***
 
@@ -147,8 +147,6 @@ li {
 
 ## SoundCloud Embed
 
-<p><iframe src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1670703375&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true" loading="lazy" width="640" height="165" frameborder="0" allowfullscreen></iframe></p>
+<p><iframe src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1670703375&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true" loading="lazy" width="640" height="162" frameborder="0" allowfullscreen></iframe></p>
 
 ***
-
-
