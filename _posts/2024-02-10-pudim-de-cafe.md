@@ -8,25 +8,6 @@ video_embed: https://www.dailymotion.com/embed/video/x8lqgsi?autoplay=1
 tags:   [pudim]
 ---
 
-açúcar
-1 xícara de açúcar
-Modo de preparo
-Modo de preparo : 45min
-
- 1. Jogue o açúcar da calda na forma e aqueça até caramelar.
- 2. Mexa de forma circular para que espalhe de forma uniforme.
- 3. Bater no liquidificar os ovos, o leite condensado, o leite, o café
-    solúvel e o achocolatado.
- 4. Misture tudo durante 2 minutos.
- 5. Derrame sobre uma forma redonda de furo (pequena), já com a calda
-    pronta.
- 6. Coloque para assar na forma caramelada em banho-maria.
-
-Espere o pudim esfriar, coloque-o na geladeira para desenformá-lo.
-
-**Tags:**
-Pudins, flans Mousses, Docinhos e bombons, Pavês, Brigadeiro, Torta doce, Pudim de leite em pó, Light
-
 **Ingredientes (20 porções)**
 
  - Pudim
