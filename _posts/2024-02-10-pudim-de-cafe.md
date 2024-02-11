@@ -36,7 +36,7 @@ tags:   [pudim]
     pronta.
  6. Coloque para assar na forma caramelada em banho-maria.
 
-> Espere o pudim esfriar, coloque-o na geladeira para desenformá-lo.
+_Espere o pudim esfriar, coloque-o na geladeira para desenformá-lo._
 
 **Tags:**
 Pudins, flans Mousses, Docinhos e bombons, Pavês, Brigadeiro, Torta doce, Pudim de leite em pó, Light
