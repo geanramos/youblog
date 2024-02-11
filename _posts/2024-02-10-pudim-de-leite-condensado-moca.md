@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Pudim de Leite Condensado MOÇA
+title: "Pudim de Leite Condensado MOÇA"
 description: "Receita de Pudim de Leite condensado MOÇA com calda de caramelo, que leva apenas 4 ingredientes"
 date: "2024-02-10 15:18:35 +0300"
 image: "/images/pudim-2.gif"
-video_embed: https://www.youtube.com/embed/XAU1wx2PPSE
+video_embed: "https://www.youtube.com/embed/XAU1wx2PPSE"
 tags: [pudim]
 ---
 
