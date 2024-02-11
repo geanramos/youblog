@@ -2,7 +2,7 @@
 layout: post
 title:  Pudim de Café
 description: "Descubra a receita de Pudim de café para fazer em 45 minutos. Jogue o açúcar da calda na forma e aqueça até caramelar."
-date:   "2024-02-10 14:01:35 +0300
+date:   "2024-02-10 14:01:35 +0300"
 image:  "/images/pudim-de-cafe.jpg"
 video_embed: https://www.dailymotion.com/embed/video/x8lqgsi?autoplay=1
 tags:   [pudim]
